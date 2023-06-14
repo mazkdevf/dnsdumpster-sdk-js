@@ -1,0 +1,30 @@
+{
+  "name": "dnsdumpster",
+  "version": "1.0.5",
+  "description": "Created for dnsdumpster.com, this is an Unofficial API for fetching data from the website.",
+  "main": "dnsClass.js",
+  "keywords": [
+    "dnsdumpster",
+    "dns",
+    "dumpster",
+    "dnsdumpster.com",
+    "unofficial",
+    "api",
+    "dnsdumpster-api",
+    "dnsdumpster-api-nodejs",
+    "dnsdumpster-api-node",
+    "dnsdumpster-api-js",
+    "dnsdumpster-api-javascript"
+  ],
+  "author": "mazkdevf",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mazkdevf/dnsdumpster-sdk-js.git"
+  },
+  "homepage": "https://github.com/mazkdevf/dnsdumpster-sdk-js#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.11"
+  }
+}

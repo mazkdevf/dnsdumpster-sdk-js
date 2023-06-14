@@ -114,32 +114,7 @@ await dnsPrivate.get('google.com').then((results) => {
 
 # Contributing
 
-Welcome to the Unofficial DNSDumpster API! I appreciate your interest in contributing. Whether you want to report a bug, suggest a new feature, or submit improvements to the codebase.
-
-## Issues
-
-If you come across any issues or have a bug to report, please feel free to [open an issue](https://github.com/mazkdevf/dnsdumpster-sdk-js/issues). Make sure to provide detailed information about the problem you encountered, including steps to reproduce it if possible.
-
-## Pull Requests
-
-We gladly accept Pull Requests (PRs) from the community. If you have an enhancement or fix you'd like to contribute, follow these steps:
-
-1. Fork the repository and create your branch from `master`.
-2. Make your changes, ensuring the code follows our coding conventions and guidelines.
-3. Test your changes to make sure they work as intended.
-4. Commit your changes and provide a clear and descriptive commit message.
-5. Push your branch to your forked repository.
-6. Open a Pull Request to the `master` branch of our repository.
-7. Provide a detailed description of the changes you made in the PR, including any related issue numbers.
-
-We will review your PR as soon as possible.
-
-## Code Style
-
-To maintain a consistent code style throughout the project, please adhere to the following guidelines:
-
-- Write clear and concise comments to explain the code's intent where necessary.
-- Before submitting a PR, ensure your code passes any existing tests and write new tests for any added functionality.
+Welcome to the Unofficial DNSDumpster API! I appreciate your interest in contributing. Whether you want to report a bug, suggest a new feature, or submit improvements to the code.
 
 Thank you for considering contributing to this project.
 
